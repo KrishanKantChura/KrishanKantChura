@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishankantchura" alt="krishankantchura" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/KKinFootech" target="blank"><img src="https://img.shields.io/twitter/follow/KKinFootech?logo=twitter&style=for-the-badge" alt="KKinFootech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BytesTherapy" target="blank"><img src="https://img.shields.io/twitter/follow/KKinFootech?logo=twitter&style=for-the-badge" alt="BytesTherapy" /></a> </p>
 
 - 📫 How to reach me **technicalkk16@gmail.com**
 
