@@ -1,30 +1,76 @@
-<h1 align="center">Hi 👋, I'm Krishan Kant</h1>
-<h3 align="center">A passionate Web developer , Tech YouTuber & A Graaphic Designer from India</h3>
+<h1 align="center">Hello Coders!! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantchura&label=Profile%20views&color=0e75b6&style=flat" alt="krishankantchura" /> </p>
+![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishankantchura" alt="krishankantchura" /></a> </p>
+<h3 align="center">I'm Kishan Kant Chura🙋‍♂️, a Third year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things. I'm a youtuber🎬 & Graphic Designer. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
-<p align="left"> <a href="https://twitter.com/BytesTherapy" target="blank"><img src="https://img.shields.io/twitter/follow/KKinFootech?logo=twitter&style=for-the-badge" alt="BytesTherapy" /></a> </p>
 
-- 📫 How to reach me **technicalkk16@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishanKantChura&label=Profile%20views&color=0e75b6&style=flat" alt="KrishanKantChura" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/KrishanKantChura?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/KrishanKantChura?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+<!-- <p align="center">
+  <code>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fkishanrajput23" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+  </code>
+</p> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/BytesTherapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BytesTherapy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishankantchura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishankantchura" height="30" width="40" /></a>
 
-<a href="https://fb.com/BytesTherapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="BytesTherapy" height="30" width="40" /></a>
-<a href="https://instagram.com/bytestherapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bytestherapy" height="30" width="40" /></a>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=KrishanKantChura&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KrishanKantChura)
 
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/BytesTherapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/BytesTherapy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishankantchura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishankantchura" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/KrishanKantChura" target="blank"><img src="https://img.shields.io/twitter/follow/KrishanKantChura?logo=twitter&style=for-the-badge" alt="KrishanKantChura" /></a> </p>
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</a>
+
+- 🔭 I’m currently working on **Graphic Design**
+
+- 🌱 I’m currently learning **Data Structure & Algorithms**
+
+- 💬 Ask me about **anything you want.**
+
+- 📫 How to reach me **krishankantchura1615@gmail.com**
+
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+
+### [Find Me Here]
+1. [Instagram](https://www.instagram.com/bytestherapy)
+
+2. [Facebook](https://www.facebook.com/bytestherapy)
+
+3. [LinkedIn](https://www.linkedin.com/KrishanKantChura)
+
+4. [Twitter](https://www.twitter.com/BytesTherapy)
+
+5. [Subscribe us on YouTube](https://www.youtube.com/c/BytesTherapy)
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishanKantChura&theme=dark&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/KrishanKantChura">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishanKantChura&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/KrishanKantChura">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishanKantChura&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KrishanKantChura&theme=react-dark&hide_border=true&area=true)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/krishankant"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/krishankant" /></a></p><br><br>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishankantchura&show_icons=true&locale=en&layout=compact" alt="krishankantchura" /></p>
+### Watch my contribution graph being eaten by a Snake! 🐍
+  
+</div>
+
+<div align="center">
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
