@@ -12,14 +12,14 @@
 </p>
 <!-- <p align="center">
   <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fkishanrajput23" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FKrishanKantChura" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p> -->
 
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=KrishanKantChura&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KrishanKantChura)
 
-<p align="left"> <a href="https://twitter.com/KrishanKantChura" target="blank"><img src="https://img.shields.io/twitter/follow/KrishanKantChura?logo=twitter&style=for-the-badge" alt="KrishanKantChura" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BytesTherapy" target="blank"><img src="https://img.shields.io/twitter/follow/BytesTherapy?logo=twitter&style=for-the-badge" alt="BytesTherapy" /></a> </p>
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
